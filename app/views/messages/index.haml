@@ -1,0 +1,5 @@
+#chat
+  = render @messages
+
+= form_for Message.new, remote: true do |f|
+  = f.text_field :content

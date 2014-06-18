@@ -1,0 +1,5 @@
+== README
+
+This is a simple Rails chat for analytical purposes, feel free to do whatever you want with it.
+
+Borrowed alot of code from: http://runnable.com/Up5_Pc3lNms8AAIq/a-chat-example-using-ruby-on-rails-for-polling
